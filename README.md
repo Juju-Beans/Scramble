@@ -2,12 +2,11 @@
 
 **Author: Jadesola Alade-Fa**
 
-Developed over a series of four weeks led by Josh Pia and guest instructors in the Nucamp bootcamp for Back End, SQL, and DevOps. Established to enhance familiarity with tools and languages used in the creation and management of databases.  
+Developed over a series of four weeks and led by Josh Pia and guest instructors in the Nucamp bootcamp for Back End, SQL, and DevOps. Established to enhance familiarity with tools and languages used in the creation and management of databases.  
 
 ---
 
-|API Reference Table|
----  
+## API Reference Table
 
 | URL      | HTTP Verb |
 | :-----------: | :-----------: |
