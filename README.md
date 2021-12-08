@@ -34,7 +34,7 @@ I chose to use the SQL Alchemy ORM to develop my project's backend. I made the d
 
 **What future improvements are in store, if any?**  
 
-In the futue I plan to expland the endpoints my current back-end is capable of supporting. I would like my application to be able to perform PUT requests such that updates could be made to a run's score. Being ables to add (POST) and edit (PATCH) new or old levels and difficulties are also considerations for the future. 
+In the futue I plan to expland the endpoints my current back-end is capable of supporting. I would like my application to be able to perform PUT requests such that updates could be made to a run's score. Being able to add (POST) and edit (PATCH) new or old levels and difficulties are also considerations for the future. 
 
 
 
